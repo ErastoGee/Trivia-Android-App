@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tri via</string>
+    <string name="Title">Trivia</string>
+    <string name="trueButton">TRUE</string>
+    <string name="FalseButton">FALSE</string>
+    <string name="counter">0/700</string>
+    <string name="QuestionTV">Hello there this is the worst thing ever.</string>
+<!--    <string name="wrongAnswer">Wrong!</string>-->
+<!--    <string name="correctAnswer">Correct!</string>-->
+</resources>
